@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+}
+
+/* about.hbs page styling */
+.abts{
+    text-align: center;
+    text-transform: capitalize;
+    border-bottom: 5px solid red;
+}
